@@ -1,4 +1,4 @@
-#include <iosteram>
+#include <iostream>
 #include <string>
 using namespace std;
 int main()
@@ -10,6 +10,6 @@ string name="akshitha";
 cout<<"my age:"<<age<<endl;
 cout<<"my marks:"<<marks<<endl;
 cout<<"my grade:"<<grade<<endl;
-cout<<'my name:"<<name<<endl;
+cout<<"my name:"<<name<<endl;
 return 0;
 }
